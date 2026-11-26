@@ -1,0 +1,6 @@
+{
+  "name": "Muscify",
+  "description": "Stream online music, curated moods, live radio stations, and personal playlists on Muscify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
